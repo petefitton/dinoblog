@@ -1,7 +1,3 @@
-// postTitle
-// author
-// content: should render one or more paragraphs of content
-// comments: should render one or more comments
 import React, {Component} from "react";
 
 let elems = {
